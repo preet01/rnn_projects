@@ -1,4 +1,2 @@
-## Machine created poems using LSTM in Keras.
-
-
+Long Short-Term Memory neural network to generate text.
 
